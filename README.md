@@ -37,7 +37,7 @@ It is difficult to conclusively derive a correlation between goals and outcome p
 
 ### Limitations of this dataset
 * There are some data points for the goal in the theater category between amounts $35000 -$45000, which do not follow the said pattern of the indirect relation between the success percentage and the goal amount. 
-* ---This could be eliminated by finding more examples like these and add to the dataset or considering them as outliers.
+* This could be eliminated by finding more examples like these and add to the dataset or considering them as outliers.
 * For plays, they don’t have any examples of canceled  or amount greater than 50000 fundraising events. 
 
 ### Other possible tables and/or graphs that we could create
